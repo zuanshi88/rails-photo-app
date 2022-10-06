@@ -8,6 +8,7 @@ gem 'rails', '~> 6.1.6', '>= 6.1.6.1'
 # Use sqlite3 as the database for Active Record
 gem 'devise'
 gem 'jquery-rails'
+gem 'stripe'
 
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
